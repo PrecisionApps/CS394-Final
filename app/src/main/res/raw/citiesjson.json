@@ -1,0 +1,9 @@
+[{"id":1,
+  "cityName":"Istanbul",
+  "zipCode":"34000","imageURL":"https://media.gettyimages.com/photos/istanbul-views-picture-id903934818?k=20&m=903934818&s=612x612&w=0&h=GDislJCCVEJeSNw8Jdc46dqxOQzIPz64k-InS22zRew="},
+{"id":2,
+  "cityName":"İzmir",
+  "zipCode":"35000","imageURL":"https://www.rentgo.com/wp-content/uploads/2020/09/izmir-konak-1.jpg"},
+{"id":3,
+  "cityName":"Antalya",
+  "zipCode":"07000","imageURL":"https://i2.cnnturk.com/i/cnnturk/75/800x400/611baec05cf3b019acee1e69"}]

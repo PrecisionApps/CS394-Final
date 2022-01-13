@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830230511319",
+    "project_id": "cs394-finalproject",
+    "storage_bucket": "cs394-finalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830230511319:android:a882e81ab9af3a2d743a92",
+        "android_client_info": {
+          "package_name": "com.example.ozgeyildizplantsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830230511319-clkhrpceg68s46kk2qgofm31q3lb5bs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfdvxLq6AA4ETgKvqek4vC4UkjE2SRZUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830230511319-clkhrpceg68s46kk2qgofm31q3lb5bs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
